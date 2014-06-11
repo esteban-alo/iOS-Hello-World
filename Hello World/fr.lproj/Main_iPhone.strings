@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Greet"; ObjectID = "AEg-FV-2UT"; */
+"AEg-FV-2UT.normalTitle" = "Saluer";
+
+/* Class = "IBUILabel"; text = "Type your name"; ObjectID = "eRG-q5-p9S"; */
+"eRG-q5-p9S.text" = "Entrez votre nom";
+
+/* Class = "IBUIButton"; normalTitle = "Clear"; ObjectID = "zNC-Xd-zE5"; */
+"zNC-Xd-zE5.normalTitle" = "Clair";

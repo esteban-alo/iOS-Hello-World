@@ -10,4 +10,13 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *txtName;
+
+@property (weak, nonatomic) IBOutlet UILabel *lblName;
+
+- (IBAction)btnGreet:(id)sender;
+- (IBAction)btnClear:(id)sender;
+
+- (IBAction)backgroundTouched:(id)sender;
+
 @end
